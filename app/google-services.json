@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393894218736",
+    "firebase_url": "https://logindatabaseapp.firebaseio.com",
+    "project_id": "logindatabaseapp",
+    "storage_bucket": "logindatabaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393894218736:android:1184ee9fdd7148ce666b35",
+        "android_client_info": {
+          "package_name": "com.example.logindatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393894218736-uarepbjr3eb50oeks1dpr5o8hlefeunb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logindatabaseapp",
+            "certificate_hash": "3849104e7e6eef69f80f9a4aad4d37fe9e35a68a"
+          }
+        },
+        {
+          "client_id": "393894218736-2elv6v7apeper8214aa1685dbi0j2t53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6pRtqk1vT4xcwD_kPmj6iykB1vHcuEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393894218736-2elv6v7apeper8214aa1685dbi0j2t53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
