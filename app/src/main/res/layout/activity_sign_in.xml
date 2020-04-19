@@ -17,15 +17,15 @@
         android:layout_centerInParent="true">
 
         <EditText
+            android:id="@+id/edtMail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/edtName"
-            android:hint="Your Name"
-            android:textColorHint="@android:color/white"
+            android:hint="Your E-mail"
+            android:inputType="textWebEmailAddress"
             android:text=""
             android:textColor="@android:color/white"
-            android:textSize="34sp"
-            android:inputType="text" />
+            android:textColorHint="@android:color/white"
+            android:textSize="34sp" />
 
         <EditText
             android:layout_width="match_parent"
@@ -48,7 +48,7 @@
         android:layout_marginLeft="8dp"
         android:layout_alignParentBottom="true"
         android:layout_margin="8dp"
-        android:id="@+id/btnSignIn"
+        android:id="@+id/btnLogIn"
         android:text="Log In"
         android:textColor="@color/colorWhite" />
 

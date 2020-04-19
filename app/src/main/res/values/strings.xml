@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">LogInDatabaseApp</string>
     <string name="slogan">This is a Test String so please dont care the meaning.</string>
+
+    <string name="login">LOG IN</string>
+    <string name="logout">LOG OUT</string>
+    <string name="register">REGISTER</string>
+    <string name="enter">ENTER</string>
 </resources>
